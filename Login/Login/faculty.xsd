@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="faculty" targetNamespace="http://tempuri.org/faculty.xsd" xmlns:mstns="http://tempuri.org/faculty.xsd" xmlns="http://tempuri.org/faculty.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="baseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="baseConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Login.Properties.Settings.GlobalReference.Default.baseConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="FacultyTableAdapter" GeneratorDataComponentClassName="FacultyTableAdapter" Name="Faculty" UserDataComponentName="FacultyTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="baseConnectionString (Settings)" DbObjectName="dbo.Faculty" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT f_name, f_noofalloment, f_exp, f_dept_name FROM dbo.Faculty</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="f_name" DataSetColumn="f_name" />
+              <Mapping SourceColumn="f_noofalloment" DataSetColumn="f_noofalloment" />
+              <Mapping SourceColumn="f_exp" DataSetColumn="f_exp" />
+              <Mapping SourceColumn="f_dept_name" DataSetColumn="f_dept_name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="faculty" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="faculty" msprop:Generator_UserDSName="faculty">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Faculty" msprop:Generator_TableClassName="FacultyDataTable" msprop:Generator_TableVarName="tableFaculty" msprop:Generator_TablePropName="Faculty" msprop:Generator_RowDeletingName="FacultyRowDeleting" msprop:Generator_RowChangingName="FacultyRowChanging" msprop:Generator_RowEvHandlerName="FacultyRowChangeEventHandler" msprop:Generator_RowDeletedName="FacultyRowDeleted" msprop:Generator_UserTableName="Faculty" msprop:Generator_RowChangedName="FacultyRowChanged" msprop:Generator_RowEvArgName="FacultyRowChangeEvent" msprop:Generator_RowClassName="FacultyRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="f_name" msprop:Generator_ColumnVarNameInTable="columnf_name" msprop:Generator_ColumnPropNameInRow="f_name" msprop:Generator_ColumnPropNameInTable="f_nameColumn" msprop:Generator_UserColumnName="f_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="f_noofalloment" msprop:Generator_ColumnVarNameInTable="columnf_noofalloment" msprop:Generator_ColumnPropNameInRow="f_noofalloment" msprop:Generator_ColumnPropNameInTable="f_noofallomentColumn" msprop:Generator_UserColumnName="f_noofalloment" type="xs:int" />
+              <xs:element name="f_exp" msprop:Generator_ColumnVarNameInTable="columnf_exp" msprop:Generator_ColumnPropNameInRow="f_exp" msprop:Generator_ColumnPropNameInTable="f_expColumn" msprop:Generator_UserColumnName="f_exp" type="xs:int" />
+              <xs:element name="f_dept_name" msprop:Generator_ColumnVarNameInTable="columnf_dept_name" msprop:Generator_ColumnPropNameInRow="f_dept_name" msprop:Generator_ColumnPropNameInTable="f_dept_nameColumn" msprop:Generator_UserColumnName="f_dept_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,375 @@
+F:\DotNetPros\Login\Login\bin\Debug\Properties\Database1.mdf
+F:\DotNetPros\Login\Login\bin\Debug\Properties\Database1_log.ldf
+F:\DotNetPros\Login\Login\bin\Debug\Login.exe.config
+F:\DotNetPros\Login\Login\bin\Debug\Login.exe
+F:\DotNetPros\Login\Login\bin\Debug\Login.pdb
+F:\DotNetPros\Login\Login\obj\Debug\Login.Form1.resources
+F:\DotNetPros\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\DotNetPros\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\DotNetPros\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\DotNetPros\Login\Login\obj\Debug\Login.exe
+F:\DotNetPros\Login\Login\obj\Debug\Login.pdb
+F:\DotNetPros\Login\Login\bin\Debug\MaterialSkin.dll
+F:\DotNetPros\Login\Login\obj\Debug\Login.csproj.CopyComplete
+F:\DotNetPros\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\DotNetPros\Login\Login\obj\Debug\Login.first.resources
+F:\DotNetPros\Login\Login\obj\Debug\Login.settings.settings_uc.resources
+F:\DotNetPros\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+F:\DotNetPros\Login\Login\obj\Debug\Login.AddFaculty.resources
+F:\DotNetPros\Login\Login\obj\Debug\Login.AddExam.resources
+F:\DotNetPros\Login\Login\bin\Debug\base.mdf
+F:\DotNetPros\Login\Login\bin\Debug\base_log.ldf
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Data.v17.2.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Data.v17.2.xml
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\DotNetPros\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\DotNetPros\Login\Login\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\base.mdf
+D:\Photoshop\Login\Login\bin\Debug\base_log.ldf
+D:\Photoshop\Login\Login\bin\Debug\Properties\Database1.mdf
+D:\Photoshop\Login\Login\bin\Debug\Properties\Database1_log.ldf
+D:\Photoshop\Login\Login\bin\Debug\Login.exe.config
+D:\Photoshop\Login\Login\bin\Debug\Login.exe
+D:\Photoshop\Login\Login\bin\Debug\Login.pdb
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\MaterialSkin.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Photoshop\Login\Login\obj\Debug\Login.AddExam.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.AddFaculty.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.Form1.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.first.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.settings.settings_uc.resources
+D:\Photoshop\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Photoshop\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Photoshop\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Photoshop\Login\Login\obj\Debug\Login.exe
+D:\Photoshop\Login\Login\obj\Debug\Login.pdb
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\Photoshop\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Photoshop\Login\Login\obj\Debug\Login.exe.licenses
+F:\Supervision Allotment\Login\Login\bin\Debug\base.mdf
+F:\Supervision Allotment\Login\Login\bin\Debug\base_log.ldf
+F:\Supervision Allotment\Login\Login\bin\Debug\Properties\Database1.mdf
+F:\Supervision Allotment\Login\Login\bin\Debug\Properties\Database1_log.ldf
+F:\Supervision Allotment\Login\Login\bin\Debug\Login.exe.config
+F:\Supervision Allotment\Login\Login\bin\Debug\Login.exe
+F:\Supervision Allotment\Login\Login\bin\Debug\Login.pdb
+F:\Supervision Allotment\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Data.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\MaterialSkin.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Images.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Data.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.AddExam.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.AddFaculty.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.Form1.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.first.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.settings.settings_uc.resources
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.exe.licenses
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.CopyComplete
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.exe
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.pdb
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+F:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Supervision Allotment\Login\Login\obj\Debug\Login.addfacpanel.resources
+D:\Supervision Allotment\Login\Login\bin\Debug\base.mdf
+D:\Supervision Allotment\Login\Login\bin\Debug\base_log.ldf
+D:\Supervision Allotment\Login\Login\bin\Debug\Properties\Database1.mdf
+D:\Supervision Allotment\Login\Login\bin\Debug\Properties\Database1_log.ldf
+D:\Supervision Allotment\Login\Login\bin\Debug\Login.exe.config
+D:\Supervision Allotment\Login\Login\bin\Debug\Login.exe
+D:\Supervision Allotment\Login\Login\bin\Debug\Login.pdb
+D:\Supervision Allotment\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\MaterialSkin.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.AddExam.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.addfacpanel.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.AddFaculty.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.Form1.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.first.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.settings.settings_uc.resources
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.exe.licenses
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.exe
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.pdb
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\Supervision Allotment\Login\Login\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Supervision Allotment\Login\Login\obj\Debug\Login.csproj.ResolveComReference.cache
